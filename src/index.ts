@@ -1,6 +1,3 @@
-/* eslint-disable eslint-comments/disable-enable-pair */
-/* eslint-disable unicorn/prefer-module */
-/* eslint-disable unicorn/prefer-node-protocol */
 import * as express from 'express'
 import * as cors from 'cors'
 import * as morgan from 'morgan'
